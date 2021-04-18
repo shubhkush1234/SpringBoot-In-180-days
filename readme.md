@@ -252,9 +252,101 @@ public class ClientApp{
     }
 }
 ```
+Designing java method having more than 3 params is having the following limitation:
+
+1. While calling method, we must remember the order of passing args.
+2. While calling method, we must get count of args.
+3. While calling method, if we do not know 1 or 2 arg values, then we can not ignore to pass that. We must pass legal dummy value.
+4. Method signature looks very complex to read and use.
+
+Solution: Design java method having Java Bean as the parameter.
+
+EmpDetailsBean.java
+```java
+
+public class EmpDetailsBean implements Serializable{
+    //bean properties
+
+    private int eno;
+    private String ename;
+    private float bsalary;
+    private String desg;
+    private String company;
+    
+    // 5 setters and 5 getters
 
 
+}
 
+```
+
+Service class:
+
+```java
+
+public class EmpMgmtService{
+
+    public String generateNetSalaryDetails(EmpDetailsBean edb){
+
+        //get Employee details from edb object through calling getter mwthods. 
+        //calculate gross and net salary.
+
+        float gsalary= abd.getSalary() + edb.getSalary()*0.3f;
+        float netSalary = gsalary - (gsalary* 0.1f);
+
+        .....
+
+        return "......"
+
+    }
+
+}
+
+```
+
+When parameter type is class name, then while calling we need to pass object of that class as the argument.
+
+When parameter type is interface, then while calling we need to pass implementation class object as the argument.
+
+When parameter type is abstract class name, then while calling we need to pass subclass object of the abstract class as the argument.
+
+```java
+
+public class ClientApp{
+    psvm (String args[]){
+
+        EmpDetailsBean edb = new EmployeeDetailsBean();
+        edb.setEname("Shubham");
+        edb.setsetBsalary(89999999999.5f);
+        edb.setDesg("SSE");
+        edb.setEno(89888);
+        String result = service.generateNetSalaryDetails(edb);
+        SOP(result);
+
+    }
+}
+
+
+```
+
+Advantages of designing java method having java bean as the parameter
+=======================================================================
+
+1. Method signature looks simple and easy to use.
+2. While setting data Java Bean object, we need not to follow any order.
+3. If we do not have 1 or 2 values, then we can ignore them while setting data to java bean. (no need of passing any dummy values).
+4. Taking count of values to set to the java bean objects.
+5. While calling setter methods to set data to java bean objects, the method names are self descriptive to set proper data.
+
+
+What are POJO Class, POJI, Java Bean, Bean Class/Component Class and Spring Bean?
+==================================================================================
+
+1. The ordinary java class without any specialization is called POJO class.
+2. In most of the situations, we can compile POJO classes by using Java/JDK libraries, i.e there is no need of adding JEE, third party libraries (jars) to the CLASSPATH.
+3. The java classes that is not extending and implementing any technology and framework API classes and interface is called POJO class.
+4. POJO class is not against of inheritance or implementing interfaces. It is afainst of inheriting from Technology/Framework API classes and against of implementating technology/framework API interfaces.
+ 
 
 
 
