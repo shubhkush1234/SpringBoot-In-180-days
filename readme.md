@@ -338,7 +338,6 @@ Advantages of designing java method having java bean as the parameter
 4. Taking count of values to set to the java bean objects.
 5. While calling setter methods to set data to java bean objects, the method names are self descriptive to set proper data.
 
-
 What are POJO Class, POJI, Java Bean, Bean Class/Component Class and Spring Bean?
 ==================================================================================
 
@@ -346,19 +345,6 @@ What are POJO Class, POJI, Java Bean, Bean Class/Component Class and Spring Bean
 2. In most of the situations, we can compile POJO classes by using Java/JDK libraries, i.e there is no need of adding JEE, third party libraries (jars) to the CLASSPATH.
 3. The java classes that is not extending and implementing any technology and framework API classes and interface is called POJO class.
 4. POJO class is not against of inheritance or implementing interfaces. It is afainst of inheriting from Technology/Framework API classes and against of implementating technology/framework API interfaces.
- 
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
