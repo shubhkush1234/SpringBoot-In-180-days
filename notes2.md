@@ -23,4 +23,92 @@
 
 <img src="./Images/NTSPBMS714- Realtime DI -Layered App -Mini Project -April 10th.png" alt="img1" />
 
+### Day 1 ###
 
+<img src="./Images/NTSPBMS714- Realtime DI -Layered App -Mini Project -April -Realtime StrategyDP-12th.png" alt="img1" />
+
+### Day 2 ###
+
+### Day 1 ###
+
+<img src="./Images/NTSPBMS714- Realtime DI -Layered App -Mini Project -StoryBoard-14th.png" alt="img1" />
+
+### Day 2 ###
+
+### Day 1 ###
+
+<img src="./Images/NTSPBMS714- Realtime DI -Mini Project -Development using Maven-april 15th.png" alt="img1" />
+
+### Day 2 ###
+
+### Day 1 ###
+
+<img src="./Images/NTSPBMS714- Realtime DI -Mini Project -Development using Maven-april 16th.png" alt="img1" />
+
+### Day 2 ###
+
+### Day 1 ###
+
+<img src="./Images/NTSPBMS714- Realtime DI -Mini Project -Development using Maven-april 19th.png" alt="img1" />
+
+### Day 2 ###
+
+### Day 1 ###
+
+<img src="./Images/NTSPBMS714- Spring Bean scopes-april 20th.png" alt="img1" />
+
+### Day 2 ###
+
+### Day 1 ###
+
+<img src="./Images/NTSPBMS714- Spring Bean scopes-april 21st.png" alt="img1" />
+
+### Day 2 ###
+
+### Day 1 ###
+
+<img src="./Images/March18th.png" alt="img1" />
+
+### Day 2 ###
+
+### Day 1 ###
+
+<img src="./Images/March18th.png" alt="img1" />
+
+### Day 2 ###
+
+### Day 1 ###
+
+<img src="./Images/March18th.png" alt="img1" />
+
+### Day 2 ###
+
+### Day 1 ###
+
+<img src="./Images/March18th.png" alt="img1" />
+
+### Day 2 ###
+
+### Day 1 ###
+
+<img src="./Images/March18th.png" alt="img1" />
+
+### Day 2 ###
+
+### Day 1 ###
+
+<img src="./Images/March18th.png" alt="img1" />
+
+### Day 2 ###
+
+### Day 1 ###
+
+<img src="./Images/March18th.png" alt="img1" />
+
+### Day 2 ###
+
+### Day 1 ###
+
+<img src="./Images/March18th.png" alt="img1" />
+
+### Day 2 ###

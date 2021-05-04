@@ -345,23 +345,3 @@ What are POJO Class, POJI, Java Bean, Bean Class/Component Class and Spring Bean
 2. In most of the situations, we can compile POJO classes by using Java/JDK libraries, i.e there is no need of adding JEE, third party libraries (jars) to the CLASSPATH.
 3. The java classes that is not extending and implementing any technology and framework API classes and interface is called POJO class.
 4. POJO class is not against of inheritance or implementing interfaces. It is afainst of inheriting from Technology/Framework API classes and against of implementating technology/framework API interfaces.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
