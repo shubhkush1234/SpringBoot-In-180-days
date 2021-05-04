@@ -23,92 +23,75 @@
 
 <img src="./Images/NTSPBMS714- Realtime DI -Layered App -Mini Project -April 10th.png" alt="img1" />
 
-### Day 1 ###
+### Day 20 ###
 
 <img src="./Images/NTSPBMS714- Realtime DI -Layered App -Mini Project -April -Realtime StrategyDP-12th.png" alt="img1" />
 
-### Day 2 ###
+### Day 21 ###
 
-### Day 1 ###
 
 <img src="./Images/NTSPBMS714- Realtime DI -Layered App -Mini Project -StoryBoard-14th.png" alt="img1" />
 
-### Day 2 ###
+### Day 22 ###
 
-### Day 1 ###
 
 <img src="./Images/NTSPBMS714- Realtime DI -Mini Project -Development using Maven-april 15th.png" alt="img1" />
 
-### Day 2 ###
+### Day 23 ###
 
-### Day 1 ###
 
 <img src="./Images/NTSPBMS714- Realtime DI -Mini Project -Development using Maven-april 16th.png" alt="img1" />
 
-### Day 2 ###
+### Day 24 ###
 
-### Day 1 ###
 
 <img src="./Images/NTSPBMS714- Realtime DI -Mini Project -Development using Maven-april 19th.png" alt="img1" />
 
-### Day 2 ###
+### Day 25 ###
 
-### Day 1 ###
 
 <img src="./Images/NTSPBMS714- Spring Bean scopes-april 20th.png" alt="img1" />
 
-### Day 2 ###
+### Day 26 ###
 
-### Day 1 ###
 
 <img src="./Images/NTSPBMS714- Spring Bean scopes-april 21st.png" alt="img1" />
 
-### Day 2 ###
+### Day 27 ###
 
-### Day 1 ###
 
-<img src="./Images/March18th.png" alt="img1" />
+<img src="./Images/NTSPBMS714- Spring Bean scopes-april 22nd.png" alt="img1" />
 
-### Day 2 ###
+### Day 28 ###
 
-### Day 1 ###
+<img src="./Images/NTSPBMS714- ApplicationContext Container-april 23rd.png" alt="img1" />
 
-<img src="./Images/March18th.png" alt="img1" />
+### Day 29 ###
 
-### Day 2 ###
 
-### Day 1 ###
+<img src="./Images/NTSPBMS714- AC- properties file-april 24th.png" alt="img1" />
 
-<img src="./Images/March18th.png" alt="img1" />
+### Day 30 ###
 
-### Day 2 ###
 
-### Day 1 ###
+<img src="./Images/NTSPBMS714- Annotation driven spring programming-april 25th.png" alt="img1" />
 
-<img src="./Images/March18th.png" alt="img1" />
+### Day 31 ###
 
-### Day 2 ###
 
-### Day 1 ###
+<img src="./Images/NTSPBMS714- @Autowired-april 28th.png" alt="img1" />
 
-<img src="./Images/March18th.png" alt="img1" />
+### Day 32: ECLIPSE DEBUGGING ###
 
-### Day 2 ###
 
-### Day 1 ###
+<img src="./Images/Debuggin on  april18th.png" alt="img1" />
 
-<img src="./Images/March18th.png" alt="img1" />
+### Day 33: ECLIPSE DEBUGGING 2 ###
 
-### Day 2 ###
+<img src="./Images/Debuggin on  april 25th -Session2.png" alt="img1" />
 
-### Day 1 ###
+### Day 34 ###
 
-<img src="./Images/March18th.png" alt="img1" />
 
-### Day 2 ###
+<img src=".png" alt="img1" />
 
-### Day 1 ###
-
-<img src="./Images/March18th.png" alt="img1" />
-
-### Day 2 ###
