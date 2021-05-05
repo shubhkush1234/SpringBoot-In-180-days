@@ -6,7 +6,6 @@
 
 <img src="./Images/NTSPBMS713-Intro2 - March19th.png" alt="img1" />
 
-
 ### Day 3 ###
 
 <img src="./Images/NTSPBMS713-Intro3 - March 22nd.png" alt="img1" />
