@@ -80,4 +80,4 @@
 
 ### Day 34 ###
 
-<img src=".png" alt="img1" />
+<img src="./Images/NTSPBMS714- @Autowired-May10th.png" alt="NTSPBMS714- @Autowired-May10th" />

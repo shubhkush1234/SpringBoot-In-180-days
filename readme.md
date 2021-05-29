@@ -144,7 +144,7 @@ Machine 1(B.computer.B.m1()) ----> network ------> Machine 2(B.computer), B.m1()
 -------------------------------------------------------------------------------
 
 
-What id Java Bean?
+What is Java Bean?
 ====================
 
 - Java Bean is a java class that developed by following some stamdards.
