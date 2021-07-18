@@ -25,32 +25,32 @@
 
 <img src="./Images/NTSP714- Spring vs  Spring Boot- May28th.png" alt="img1" />
 
-### Day 54 ###
+### Day 54 NTSP714-  Spring  Boot Apps ###
 
 
-<img src="./Images/.png" alt="img1" />
+<img src="./Images/NTSP714-  Spring  Boot Apps - May31st.png" alt="img1" />
 
-### Day 55 ###
-
-
-<img src="./Images/.png" alt="img1" />
-
-### Day 56 ###
+### Day 55 NTSP714-  Spring  Boot App Development ###
 
 
-<img src="./Images/.png" alt="img1" />
+<img src="./Images/NTSP714-  Spring  Boot App Development - June1st.png" alt="img1" />
 
-### Day 57 ###
-
-
-<img src="./Images/.png" alt="img1" />
-
-### Day 58 ###
+### Day 56 NTSP714-  Spring  Boot 2nd App   Development ###
 
 
-<img src="./Images/.png" alt="img1" />
+<img src="./Images/NTSP714-  Spring  Boot 2nd App   Development - June2nd.png" alt="img1" />
 
-### Day 59 ###
+### Day 57 NTSP714-  Mini Project-Layered App  ###
 
-<img src="./Images/.png" alt="img1" />
+
+<img src="./Images/NTSP714-  Mini Project-Layered App - June3rd.png" alt="img1" />
+
+### Day 58 NTSP714-  Mini Project-Layered App ###
+
+
+<img src="./Images/NTSP714-  Mini Project-Layered App - June5th.png" alt="img1" />
+
+### Day 59 NTSP714-  Mini Project-Layered App - June7th ###
+
+<img src="./Images/NTSP714-  Mini Project-Layered App - June7th.png" alt="img1" />
 
